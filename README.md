@@ -1,6 +1,6 @@
 # Face Recognition Example
 
-Eigenface による顔認識入門
+Eigenface, FisherFace, LBPHFace による顔認識入門
 
 ```console
 sh download.sh
